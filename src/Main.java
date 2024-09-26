@@ -14,7 +14,7 @@ public class Main {
         int number2 = scanner.nextInt();
 
         // Tính tổng hai số
-        int sum = number1 + number2;
+        int sum = number1 - number2;
 
         // In kết quả
         System.out.println("Tổng của hai số là: " + sum);
